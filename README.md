@@ -2,6 +2,8 @@
 
 Template for project creation of Vue inside CodeMix
 
+Read the article on codesource.io - https://codesource.io/create-beautiful-charts-using-vue-and-chart-js
+
 # Contents
 
 This template project is just an example Hello World that guide you through the use of Vue to build a very simple web application that display the Hello World!!! Greeting.
